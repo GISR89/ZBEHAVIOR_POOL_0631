@@ -1,0 +1,5 @@
+CLASS zbp_r_customer_travel_0631 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF z_r_customer_travel_0631.
+ENDCLASS.
+
+CLASS zbp_r_customer_travel_0631 IMPLEMENTATION.
+ENDCLASS.
